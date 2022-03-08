@@ -10,3 +10,24 @@ nav>h1 {
 nav>h2 {
     color: purple;
 }
+
+ul, ol {
+    text-align: center;
+    list-style-position: inside;
+}
+
+img {
+    vertical-align: text-bottom;
+    height: 1000;
+}
+
+h3 {
+    color: rgb(255, 230, 9);
+}
+
+#index-h3 {
+    text-align: center;
+}
+
+
+
