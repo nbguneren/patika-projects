@@ -1,0 +1,112 @@
+.container {
+    display: block;
+    margin: auto;
+    width: 90%;
+}
+
+.search {
+    background-color: rgb(236, 236, 236);
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+}
+
+/* .other-links {
+} */
+
+.div-1 {
+    height: 100%;
+    padding: 10px 0px;
+    width: 37%;
+    background-color: rgb(122, 236, 221);
+    margin-top: 1px;
+    margin-right: 1.5px;
+    float: left;
+    text-align: center;
+}
+
+.div-2 {
+    height: 100%;
+    padding: 6.8px 0px;
+    float: left;
+    width: 18.5%;
+    background-color: rgb(102, 224, 208) ;
+    margin: 1px 1.5px 0 0;
+    text-align: center;
+}
+
+.div-3 {
+    margin-top: 1px;
+    padding: 5px 0px 7px;
+    float: left;
+    width: 605.5px;
+    text-align: center;
+    background-color: rgb(92, 223, 205);
+}
+
+div.div-3 > p {
+    font-size: 14px;
+}
+
+div.div-1 > p {
+    color: black;
+    text-align: center;
+    margin: 0px;
+    padding-top: 5px;
+    font-size: large;
+    /* font-weight:600;   */
+}
+
+div.div-3 > p {
+    text-align: center;
+    margin: 0px;
+    padding-top: 5px;
+}
+
+div.div-1 > ul {
+    margin: 0px 0px 7px;
+    font-size: large
+}
+
+li {
+    list-style: none;
+    padding: 0px;
+}
+
+ul {
+    padding: 0px;
+    margin: 7px;
+    font-size:14px ;
+    /* font-weight: bold; */
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+/* p {
+    margin: 0 auto 2;
+    margin-bottom: 2px;
+    text-align: center;
+} */
+
+input {
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    margin: 0 auto;
+}
+
+div.container > div.search > br {
+    line-height: 0;
+    content: " ";
+}
+
+p {
+    clear:both;
+}
+
