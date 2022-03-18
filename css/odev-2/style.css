@@ -18,7 +18,7 @@
 .div-1 {
     height: 100%;
     padding: 10px 0px;
-    width: 37%;
+    width: 40%;
     background-color: rgb(122, 236, 221);
     margin-top: 1px;
     margin-right: 1.5px;
@@ -30,8 +30,8 @@
     height: 100%;
     padding: 6.8px 0px;
     float: left;
-    width: 18.5%;
-    background-color: rgb(102, 224, 208) ;
+    width: 15.5%;
+    background-color: rgb(84, 197, 182) ;
     margin: 1px 1.5px 0 0;
     text-align: center;
 }
@@ -42,7 +42,7 @@
     float: left;
     width: 605.5px;
     text-align: center;
-    background-color: rgb(92, 223, 205);
+    background-color: rgb(58, 172, 156);
 }
 
 div.div-3 > p {
